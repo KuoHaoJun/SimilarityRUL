@@ -1,0 +1,2 @@
+仅在MATLAB2019a中进行测试，其他版本未进行测试
+SimliarityBasedRULExample.mlx为主函数
